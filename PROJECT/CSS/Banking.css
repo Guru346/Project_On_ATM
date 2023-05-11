@@ -1,0 +1,150 @@
+body {
+    background-color: #4848ec;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    font-style:normal;
+}
+
+header {
+    text-align: center;
+    background-color: lightskyblue;
+    color: darkblue;
+    font-size: 50px;
+    
+}
+
+.banking {
+    position: absolute; 
+         right: 8%;
+         width: 180px; 
+         height: 40px; 
+         border-radius: 20px; 
+         border: none;
+          background-color: #a7ffffd6; 
+          font-family:calibri; 
+          font-size:20px;
+           font-weight: bolder;
+            cursor: pointer;
+            
+}
+
+.transfer {
+    position: absolute; 
+      right: 8%;
+         width: 180px; 
+         height: 40px; 
+         border-radius: 20px; 
+         border: none;
+          background-color: #a7ffffd6; 
+          font-family:calibri; 
+          font-size:20px;
+           font-weight: bolder;
+            cursor: pointer;
+}
+ 
+.balanceinquiry {
+     position: absolute; 
+         right: 8%;
+         width: 180px; 
+         height: 40px; 
+         border-radius: 20px; 
+         border: none;
+          background-color: #a7ffffd6; 
+          font-family:calibri; 
+          font-size:20px;
+           font-weight: bolder;
+            cursor: pointer;            
+}
+
+.right {
+    padding: 10px;
+     right: 8%;
+     width: 180px; 
+     height: 40px; 
+     border-radius: 20px; 
+     border: none;
+      
+      font-family:calibri; 
+      font-size:20px;
+       font-weight: bolder;
+        cursor: pointer;
+}
+
+.left {     
+    left: 8%;
+     width: 180px; 
+     height: 40px; 
+     border-radius: 20px; 
+     border: none;
+    
+      font-family:calibri; 
+      font-size:20px;
+       font-weight: bolder;
+        cursor: pointer;        
+        
+}
+
+.registration {
+    position: fixed;    
+    left: 8%;
+     width: 180px; 
+     height: 40px; 
+     border-radius: 20px; 
+     border: none;
+      background-color: #a7ffffd6; 
+      font-family:calibri; 
+      font-size:20px;
+       font-weight: bolder;
+        cursor: pointer;
+
+}
+
+.ministatement {   
+    position: fixed;    
+    left: 8%;
+     width: 180px; 
+     height: 40px; 
+     border-radius: 20px; 
+     border: none;
+      background-color: #a7ffffd6; 
+      font-family:calibri; 
+      font-size:20px;
+       font-weight: bolder;
+        cursor: pointer;
+
+}
+
+.services {     
+    position: fixed;     
+    left: 8%;
+     width: 180px; 
+     height: 40px; 
+     border-radius: 20px; 
+     border: none;
+      background-color: #a7ffffd6; 
+      font-family:calibri; 
+      font-size:20px;
+       font-weight: bolder;
+        cursor: pointer;
+
+}
+
+.quickcash {
+    position: fixed;      
+    left: 8%;
+     width: 180px; 
+     height: 40px; 
+     border-radius: 20px; 
+     border: none;
+      background-color: #a7ffffd6; 
+      font-family:calibri; 
+      font-size:20px;
+       font-weight: bolder;
+        cursor: pointer;
+
+}
+
